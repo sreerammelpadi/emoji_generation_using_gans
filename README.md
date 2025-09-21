@@ -14,8 +14,7 @@ This project explores two main approaches to emoji generation:
 - **Random Generation**: Using DCGAN to generate diverse emoji variations from noise
 - **Conditional Generation**: Using Conditional GAN to generate specific emoji types based on labels
 
-![Project Overview](images/project_overview.png)
-*Overview of the emoji generation pipeline*
+The details of the project implementation are provided in the latter half of this README file.
 
 ## 🚀 Quick Start
 
